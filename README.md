@@ -27,7 +27,7 @@ None. The program uses only the C++ standard library. The max-heap, chained hash
 **Using g++ (no CMake needed):**
 ```bash
 mkdir bin
-g++ -std=c++17 -O2 -Wall -Wextra src/main.cpp -o bin/BountyChore
+g++ -std=c++17 -O2 -Wall -Wextra -static src/main.cpp -o bin/BountyChore
 ```
 
 **Using CMake:**
