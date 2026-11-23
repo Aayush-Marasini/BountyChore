@@ -1,0 +1,4 @@
+TaskID,Name,Room,BasePoints,DailyInflation,DaysUnclaimed,UrgencyMultiplier
+T1,Take out trash,Kitchen,10,2,3,1.5
+T2,Scrub shower,Bathroom,30,3,1,1.0
+T3,Vacuum living room,Living Room,15,1,0,1.0
